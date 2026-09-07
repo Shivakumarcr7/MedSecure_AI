@@ -1,0 +1,6 @@
+{
+  "name": "MedSecure AI",
+  "description": "AI + Blockchain medicine identification and authenticity verification platform. Scan, identify, verify, and stay safe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
